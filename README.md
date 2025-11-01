@@ -36,10 +36,10 @@ Durante o desenvolvimento, pude reforçar conceitos importantes como:
 ## 📸 Prévia do projeto
 
 ### Versão desktop
-![Desktop Screenshot](./assets/images/desktop.png)
+(<img width="1919" height="1079" alt="Captura de tela 2025-10-31 210829" src="https://github.com/user-attachments/assets/08cbd169-8a78-4abd-a9cc-3d8c74005167"/>)
 
 ### Hover no botão
-![Hover Screenshot](./assets/images/hover.png)
+(<img width="1919" height="1079" alt="Captura de tela 2025-10-31 210858" src="https://github.com/user-attachments/assets/b1b9ca43-8813-4173-aafa-036e70007726"/>)
 
 ---
 
